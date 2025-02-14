@@ -1,0 +1,7 @@
+NextJS -> React framework - to build complete feature rich application
+
+Feature : 
+    1. fullstack
+    2. file based routing
+    3. ssr -> imporove SEO
+    
